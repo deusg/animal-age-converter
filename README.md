@@ -1,6 +1,6 @@
 # Animal Age to Human Age Calculator
 
-# Program Description: Animal Age to Human Age Calculator
+# Description
 
 The "Animal Age to Human Age Calculator" is a Python program designed to determine the human age equivalent of a given animal's age, specifically for dogs and cats. The program prompts the user to input the type of animal (either "dog" or "cat") and the animal's age in years. It then calculates and displays the corresponding human age based on predefined conversion rules for each animal type.
 
